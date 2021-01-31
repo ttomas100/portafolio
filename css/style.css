@@ -12,15 +12,15 @@
 
 nav ul a,
 nav {
-  color: #444;
+  color: rgb(139, 68, 68);
 }
 
 a:link {
-  color: #6d4446;
+  color: #831c21;
 }
 
 a:visited {
-  color: #6d4446;
+  color: #792529;
 }
 
 a.brand-logo:link{
@@ -33,7 +33,7 @@ a.brand-logo:visited{
 }
 
 .brand-logo-btn {
-  background-color: #6d4446;
+  background-color: #9e1b22;
   color: bl;
   /* font-weight: bold; */
   
@@ -49,7 +49,7 @@ a.brand-logo-btn:visited{
 }
 
 .brand-logo {
-  background-color: #6d4446;
+  background-color: #922228;
   color: white;
   font-weight: bold;
 
@@ -62,7 +62,7 @@ a.brand-logo-btn:visited{
 }
 
 .sidenav-trigger {
-  color: #6d4446;
+  color: #852d31;
 }
 
 .parallax-container {
@@ -121,6 +121,7 @@ a.brand-logo-btn:visited{
     
   }
 
+
   #about-title {
     text-align: left;
   }
@@ -176,7 +177,7 @@ a.brand-logo-btn:visited{
   
 .work {
   border-bottom: 0; 
-  background-color: #6d4446;
+  background-color: #88272c;
   color:#FFFFFF;
   text-align: center; 
   position: absolute; 
@@ -222,7 +223,7 @@ a.brand-logo-btn:visited{
 }
 
 .border {
-  border: 1px solid #6d4446;
+  border: 1px solid #923035;
 }
 
 .contact {
@@ -339,7 +340,7 @@ a.brand-logo-btn:visited{
   
 .work {
   border-bottom: 0; 
-  background-color: #6d4446;
+  background-color: #8a2d32;
   color:#FFFFFF;
   text-align: center; 
   position: absolute; 
